@@ -1,3 +1,3 @@
-# ปั้มสปิน เกมส์หมู FB.AUUTY MIZK
-ปั้มสปิน CoinMaster By.Auuty
-ให้เครดิตด้วยนะครับ -AUUTYMIZK
+# ปั้มสปิน CoinMaster V.3Plus
+# ปั้มสปิน CoinMaster
+# แจกฟรี ห้ามจำหน่าย!!
