@@ -1,5 +1,5 @@
 <?php 
-require 'api.php';
+require 'api-coinmaster.php';
 $class = new coinmaster;
 popen('cls', 'w');
 echo "🔱ปั้มสปิน V.3+VPS🔱 \n";
