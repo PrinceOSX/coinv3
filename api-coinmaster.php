@@ -58,12 +58,12 @@ class coinmaster{
 		);
 	}
 	private function gettokenfb(){
-		$access_tokenfb = [ '210962723864160|WYzhnniFlO7F0kFoR47qLOVq8VY',
-'421197359034857|uJjtxDCSSLwSjS_mvkTd_1HvFxI',
-'581916489311354|Op4edD7byo7A-6S6tvxebm2erAw',
-'3223864081053568|hgtqpYkTnUwFHNsdnmmAMnxi0d0',
-'147228726827769|DSunx0H44YUVrydQKLlbAkqZW_4',
-'827698368070670|SVhzuNDqTMXft2_1nX05H7Suq1Q', ];
+		$access_tokenfb = [ '419980425865671|kZlS82Yulk0rCwhZ7fVS0-GBUkA',
+			'152206922910374|Im897amOoblO7joN7CsOynHznkk',
+            '297079068397747|OeZM-LGn5xxMVBIJz0WjH3huXa8',
+            '2776758002580287|gTtSXwP69jHAa3MmLtFV5FDi0WM',
+            '237909121088011|ozu5TiRLGpmX4qBjHc_G8fifAzs',
+            '03100644696495|Ju7awIGBHczgENODesZbm8Xpuc8', ];
 		$bz = 0;
 		do {
 			$facebookgen = $this->Curl("GET", "https://graph.facebook.com/670835880297746/accounts/test-users?access_token=".$access_tokenfb[$bz]."&installed=true&permissions=read_stream&method=post", false, false, false);
